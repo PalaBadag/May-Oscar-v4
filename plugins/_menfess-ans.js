@@ -12,7 +12,7 @@ export async function before(m) {
 		let txt = `Hᴀɪ ᴋᴀᴋ @${mf.dari.split('@')[0]}, ᴋᴀᴍᴜ ᴍᴇɴᴇʀɪᴍᴀʜ ʙᴀʟᴇsᴀɴ ɴɪʜ.Pesan yang kamu kirim sebelumnya:\n${mf.pesan}\n\nPesan balasannya:\n${m.text}\n`.trim();
 		let sblm = `Pᴇsᴀɴ Aɴᴅᴀ Sᴇʙᴇʟᴜᴍɴʏᴀ ➛ ${mf.pesan}\nPᴇsᴀɴ Bᴀʟᴀsᴀɴɴʏᴀ ➨ ${m.text}`
 		await this.send3ButtonDoc(mf.dari, txt, sblm, 'Balas', '.balasmenfess', 'Owner', '.owner', 'Credit', '.credit', fakes, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/jarotr_',
+    mediaUrl: 'https://instagram.com/pmeme_sad',
     mediaType: 2, 
     description: sgc,
     title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
@@ -31,7 +31,7 @@ export async function before(m) {
 /* Made By FokusDotId (Fokus ID)
  * https://github.com/FokusDotId
  * Ingin bikin fitur tapi tidak bisa coding?
- * hubungi: https://wa.me/6281320170984
+ * hubungi: https://wa.me/6281389566932
  * Jangan lupa bawa udut minimal sukun🗿
  
  *Nᴜᴍᴘᴀɴɢ Nᴀᴍᴀ*
