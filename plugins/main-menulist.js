@@ -348,7 +348,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By Galang',
 mentions: await conn.parseMention(con),
 title: con,
 buttonText: `CLICK HERE ⎙`, 
@@ -528,7 +528,7 @@ let almenu = `
 ┆┆⬡ *🅛︎* = Limit
 ┗─────────────────⬣`
 let nomorwa = '0'
-let nomorowm1 = '6285850539404'
+let nomorowm1 = '6281389566932'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
