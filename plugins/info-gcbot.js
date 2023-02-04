@@ -9,7 +9,7 @@ import fetch from 'node-fetch'
              externalAdReply: {
                sourceUrl: `${gc1}`,
                title: 'My Group Official', 
-               body: 'oscar-md',
+               body: 'May-md',
                thumbnail: pp
              } 
          }})
