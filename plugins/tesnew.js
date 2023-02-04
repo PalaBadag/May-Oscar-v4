@@ -57,7 +57,7 @@ const idbuttons3 = 'wkwk'
   }
   }
   }
-  let fkon = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '6285850539404@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
+  let fkon = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '6281389566932@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
   
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     
@@ -83,7 +83,7 @@ const idbuttons3 = 'wkwk'
     let d5 = 'text/rtf'
     let td = `${pickRandom([d1,d2,d3,d4,d5])}`
   let tes = `kontol`
-conn.sendUrlButton(m.chat, tag, 'Kontol', 'wa.me/6285850539404', 'Tespek', snh, m)
+conn.sendUrlButton(m.chat, tag, 'Kontol', 'wa.me/6281389566932', 'Tespek', snh, m)
 
 }
 handler.command = /^(tesnewplug)$/i
