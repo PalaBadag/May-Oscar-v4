@@ -16,7 +16,7 @@ let result = `⟐⟞⟚⟝⟮ *Title:* ⟯⟞⟚⟝⟐
 ▥ ━┉┄┄┈┈ ▢
 ${description}
 ◈ ━┉┈┄┈┈ ►`
-conn.sendButtonVid(m.chat, video, result, '_© Created by Jarot_', `Audio`, `.gett ${args[0]}`, m)
+conn.sendButtonVid(m.chat, video, result, '_© Created by Galang', `Audio`, `.gett ${args[0]}`, m)
 }
 
 handler.help = ['tiktok <url>']
