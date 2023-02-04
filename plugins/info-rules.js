@@ -23,7 +23,7 @@ let rules = `*𝙱𝚊𝚌𝚊 𝙹𝚊𝚗𝚐𝚊𝚗 𝙽𝚐𝚎𝚋𝚞𝚝
 ┍┛
 ┆⟥⟤ ➠ (${global.bottime})
 └─┈⟅`
-let nth = `*𝚁𝚞𝚕𝚎𝚜 𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎*`
+let nth = `*𝚁𝚞𝚕𝚎𝚜 May-Oscar-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎*`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Menu', '.menu', 'Owner', '.owner', 'Donasi', '.donasi', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://wa.me/p/5489299044451325/6285850539404',
     mediaType: 2, 
@@ -31,7 +31,7 @@ conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`
     title: "Sᴇᴡᴀ Cʜᴀᴛ ᴏᴡɴᴇʀ!!!",
     body: wm,
     thumbnail: fs.readFileSync('thumbnail.jpg'),
-    sourceUrl: 'https://wa.me/6285850539404',
+    sourceUrl: 'https://wa.me/6281389566932',
      }}
   })
 }
