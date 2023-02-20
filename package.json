@@ -1,7 +1,7 @@
 {
-    "name": "oscar-md-v6",
+    "name": "mayoscar-md-v4",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By Jarot",
+    "description": "WhatsApp BOT By Galang",
     "main": "index.js",
     "type": "module",
     "directories": {
